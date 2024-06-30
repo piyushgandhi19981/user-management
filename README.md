@@ -1,18 +1,28 @@
-User Management Application
+# User Management Application
 
-Features:
+# Features:
 
-User Management: Delete users, edit their locations, and filter users based on their locations in a grid.
+# User Management:
+Delete users, edit their locations, and filter users based on their locations in a grid.
 
-User Details: View user details including image, name, hobby, and creation date.
+# User Details:
+View user details including image, name, hobby, and creation date.
 
-Error Handling: Display error messages for 2 seconds if any API request fails.
+# Error Handling:
+Display error messages for 2 seconds if any API request fails.
 
-State Management: Utilize Redux for state management.
+# State Management:
+Utilize Redux for state management.
 
-Tech Stack: Implemented using React and TypeScript.
+# Tech Stack: 
+Implemented using React and TypeScript.
+
+# Components:
+Used Material UI components to create a proper UX.
 
 Here is the url of the application demo: https://www.loom.com/share/338939ff90164476a346be89b6370781?sid=c8eba8ad-2351-47d8-8762-5835af4e2463
+
+
 
 # React + TypeScript + Vite
 
