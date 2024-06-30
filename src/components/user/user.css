@@ -1,0 +1,41 @@
+.user-list-item {
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: #b3ffb3;
+}
+
+.delete-user {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.user-img {
+  border-radius: 50%;
+}
+
+.user-detail-img-container {
+  display: flex;
+  margin: 15px 0;
+}
+
+.user-detail-container {
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: flex-end; */
+  gap: 10px;
+}
+
+.user-item-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.detail-item {
+  display: flex;
+  gap: 5px;
+}
